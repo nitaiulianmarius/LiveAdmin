@@ -1,0 +1,10 @@
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\bin\Debug\Server.exe
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\bin\Debug\Server.pdb
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.exe
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.pdb
+C:\Users\Vijay\Desktop\FinalProject\Server\Server\obj\Debug\Server.Form2.resources
